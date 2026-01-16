@@ -9,4 +9,4 @@
       url={https://arxiv.org/abs/2601.06126}, 
 }
 # Notes
-Full project will be released as soon as possible after passing the company's internal compliance review. The article itself also provides some important prompts.
+Full project will be released as soon as possible after passing the company's internal compliance review. The article itself also provides some important prompts. The NL2Dashboard has been integrated into JIUTIAN's LLM Platform as a core function of interactive data analysis.
